@@ -1,3 +1,3 @@
-# LinkedIn credentials - fill these in before running
-LINKEDIN_EMAIL = "your_email@example.com"  # Your LinkedIn email
-LINKEDIN_PASSWORD = "your_password"       # Your LinkedIn password
+# Only LinkedIn credentials needed
+LINKEDIN_EMAIL = "your_real_email@domain.com"
+LINKEDIN_PASSWORD = "your_actual_password"
